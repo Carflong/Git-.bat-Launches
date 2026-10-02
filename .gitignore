@@ -1,2 +1,3 @@
 SaveGitLaunches(excluded).bat 
-PushGitLaunches(excluded).bat 
+PushGitLaunches(excluded).bat
+.gitignore
