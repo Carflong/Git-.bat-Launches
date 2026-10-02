@@ -1,2 +1,4 @@
 set /P EF="Excluded File: "
-findstr /c:%EP% .gitignore >nul || echo %EP% >> .gitignore
+findstr /c:%EP% .gitignore >nul || echo %EF% >> .gitignore
+
+pause
