@@ -1,0 +1,7 @@
+New Repository:
+	- Makes a new repository in the folder the .bat is located in
+
+
+Link:
+	- Links the repository the .bat is in with a GitHub repository
+	- Will ask for the link to a GitHub repository

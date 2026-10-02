@@ -1,0 +1,17 @@
+Save:
+	- Commits the files in the folder you put it in [assuming you have a repository there]
+	- Asks for the user to add accompanying text (a version perhaps)
+
+
+Quicksave
+	- Commits the files in the folder you put it in [assuming you have a repository there]
+		- The accompanying text will just be 'QS'
+
+
+Push:
+	- Pushes to GitHub [Assuming the repository has been linked to the corresponding GitHub project]
+
+
+Force Push:
+	- Pushes to GitHub [Assuming the repository has been linked to the corresponding GitHub project]
+	- Overwrites the current version in GitHub. Only to be used if the current version has some issue, such as it being an accidental push

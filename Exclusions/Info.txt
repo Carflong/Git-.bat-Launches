@@ -1,0 +1,2 @@
+Ignore these bats:
+	- Puts all these .bat files into the .gitignore file, causing them to be ignored when you upload your work to git

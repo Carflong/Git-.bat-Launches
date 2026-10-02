@@ -1,0 +1,2 @@
+Terminal:
+	- Opens a Git Bash terminal already directed to the folder the .bat was opened in
