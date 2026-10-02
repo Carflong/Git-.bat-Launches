@@ -1,2 +1,7 @@
 Ignore these bats:
-	- Puts all these .bat files into the .gitignore file, causing them to be ignored when you upload your work to git
+	- Puts all these .bat files into the .gitignore file, causing them to be ignored
+
+
+Exclude File:
+	- Allows the user to input a file name (full name preferably) that will then be added to the .gitignore file. Files added to .gitignore will be overlooked by git when commit-ing
+		- Using files with emojis may allow you to input duplicates into .gitignore if you try to exclude that file again (I am not sure if this is problematic)
