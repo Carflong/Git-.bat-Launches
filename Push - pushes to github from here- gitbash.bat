@@ -1,1 +1,1 @@
-"C:\Program Files\Git\git-bash.exe" --cd=C: -c "git push -u origin main"
+"C:\Program Files\Git\git-bash.exe" --cd=C: -c "git push -u origin main";read
