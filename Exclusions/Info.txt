@@ -7,6 +7,11 @@ Add to .gitignore:
 		- Using files with emojis may allow you to input duplicates into .gitignore if you try to exclude that file again (I am not sure if this is problematic)
 
 
+Add .gitignore to .gitignore:
+	- Allows the user to add the .gitignore file to .gitignore
+		- 'Add to .gitignore.bat' does not allow .gitignore to be added
+
+
 Remove file from being tracked
 	- Removes a file from the repository (Removes it from lingering in following commits)
 		- Does not stop it from being re-added if it is not in .gitingore/removed

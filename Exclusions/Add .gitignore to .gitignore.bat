@@ -1,0 +1,3 @@
+echo .gitignore >> .gitignore
+
+pause
