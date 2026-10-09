@@ -2,7 +2,7 @@ Terminal:
 	- Opens a Git Bash terminal already directed to the folder the .bat was opened in
 
 
-Rename Commit:
+Modify Commit:
 	- Allows modification of past commits in the repository
 
 		-Type in a number corresponding to how far back the commit is
@@ -16,5 +16,3 @@ When you get to the file that pops up, next to the commit(s) you want to modify 
 		 - Commands include:
 		 	- [Reword] Allows the commit to be renamed
 		 	- [Drop] Deletes the commit
-
-
