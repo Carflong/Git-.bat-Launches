@@ -10,3 +10,4 @@ Add to .gitignore:
 Remove file from being tracked
 	- Removes a file from the repository (Removes it from lingering in following commits)
 		- Does not stop it from being re-added if it is not in .gitingore/removed
+	- Good to use if you have added a file to .gitignore
