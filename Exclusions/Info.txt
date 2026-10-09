@@ -5,3 +5,8 @@ Ignore these bats:
 Exclude File:
 	- Allows the user to input a file name (full name preferably) that will then be added to the .gitignore file. Files added to .gitignore will be overlooked by git when commit-ing
 		- Using files with emojis may allow you to input duplicates into .gitignore if you try to exclude that file again (I am not sure if this is problematic)
+
+
+Remove file from being tracked
+	- Removes a file from a repository
+		- Does not stop it from being re-added
