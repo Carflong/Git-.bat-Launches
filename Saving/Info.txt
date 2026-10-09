@@ -14,4 +14,5 @@ Push:
 
 Force Push:
 	- Pushes to GitHub [Assuming the repository has been linked to the corresponding GitHub project]
-	- Overwrites the current version in GitHub. Only to be used if the current version can be overwritten (deleted and replaced essentially)
+	- Only to be used to completely overwrite your GitHub repository with your local one
+		- Use with great caution and consideration
